@@ -1,7 +1,8 @@
 
 
 # MERN-Quiz-App
-![Uploading Screenshot 2026-04-17 145806.png…]()
+<img width="1892" height="971" alt="Screenshot 2026-04-17 150916" src="https://github.com/user-attachments/assets/c272080d-76c9-4d13-8c86-adc884a807a6" />
+
 
 
 
