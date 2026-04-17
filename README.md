@@ -10,7 +10,8 @@
 <img width="1912" height="920" alt="Screenshot 2026-04-17 151000" src="https://github.com/user-attachments/assets/b0689360-8965-43e8-a4b1-b3ac6035da75" />
 
 <i><h2>3) Login Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289643-388294e7-f5ae-42fc-b135-3b0c6e018aec.png"/>
+<img width="1858" height="889" alt="Screenshot 2026-04-17 153655" src="https://github.com/user-attachments/assets/9ab3d7f5-c735-43bf-b24d-17fbf95e1df3" />
+
 <i><h2>4) User Profile Page</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289427-5ec96a82-bac5-48eb-95ca-a3bc52f66c6c.png"/>
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
