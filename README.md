@@ -18,7 +18,7 @@
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
 <img width="1903" height="907" alt="Screenshot 2026-04-17 151351" src="https://github.com/user-attachments/assets/c85bd9ae-7e52-4e47-8a02-a3e53392f032" />
 
-<i><h2>10) Footer Page</h2></i>
+<i><h2>6) Footer Page</h2></i>
 <img width="1878" height="895" alt="Screenshot 2026-04-17 151429" src="https://github.com/user-attachments/assets/b3c3946e-184a-479a-bc70-9c06f2fa59da" />
 
 
