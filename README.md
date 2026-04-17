@@ -18,14 +18,7 @@
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
 <img width="1903" height="907" alt="Screenshot 2026-04-17 151351" src="https://github.com/user-attachments/assets/c85bd9ae-7e52-4e47-8a02-a3e53392f032" />
 
-<i><h2>6) Add Quiz Page in which Admin Post the Quiz into the MongoDB Database</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289441-0be05676-c1bc-40cd-a5e6-77f58b584ee9.png"/>
-<i><h2>7) Questions of Quiz Page </h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289932-ba457305-485e-4066-b0bd-ef2cc3be88b5.png"/>
-<i><h2>8) Summary of User's answered and Correct Answer </h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/185743768-650a3b06-61a4-4833-a8e3-087ebe99759f.png"/>
-<i><h2>9) Result Page it comes after user attempted the Quiz</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289452-7109adfa-58f5-4412-87f7-bbaa0bf761a9.png"/>
 <i><h2>10) Footer Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289598-dd60cb2c-05df-4ae8-9048-b2f127d1122f.png"/>
+<img width="1878" height="895" alt="Screenshot 2026-04-17 151429" src="https://github.com/user-attachments/assets/b3c3946e-184a-479a-bc70-9c06f2fa59da" />
+
 
