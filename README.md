@@ -1,3 +1,4 @@
+<img width="1912" height="920" alt="Screenshot 2026-04-17 151000" src="https://github.com/user-attachments/assets/6d7753c2-97a3-4f4c-aff1-1c5e8d139832" />
 ![Uploading Screenshot 2026-04-17 151429.png…]()
 <img width="1903" height="907" alt="Screenshot 2026-04-17 151351" src="https://github.com/user-attachments/assets/febd77a0-00fd-4cd9-bfb1-fa72094ed2b2" />
 <img width="1881" height="907" alt="Screenshot 2026-04-17 151334" src="https://github.com/user-attachments/assets/13093ced-627c-41f4-aa40-e57da9c58ba9" />
@@ -12,7 +13,8 @@ The MERN-Quiz-App is a place where users can come and attempt the quiz and get t
 
 
 <i><h2>2) Registration Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289419-f87ff37b-3623-43b7-ba62-b0d3a00aee22.png"/>
+<img width="1912" height="920" alt="Screenshot 2026-04-17 151000" src="https://github.com/user-attachments/assets/b0689360-8965-43e8-a4b1-b3ac6035da75" />
+
 <i><h2>3) Login Page</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289643-388294e7-f5ae-42fc-b135-3b0c6e018aec.png"/>
 <i><h2>4) User Profile Page</h2></i>
