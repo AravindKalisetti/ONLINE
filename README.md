@@ -1,10 +1,9 @@
-<img width="1912" height="920" alt="Screenshot 2026-04-17 151000" src="https://github.com/user-attachments/assets/6d7753c2-97a3-4f4c-aff1-1c5e8d139832" />
 
 
 # MERN-Quiz-App
 The MERN-Quiz-App is a place where users can come and attempt the quiz and get the result. Also,  Admin has access to add the Quiz on a front page and delete the user functionality . The Tech Stack used HTML, CSS, JavaScript, MongoDB, React, Redux, and Tailwind CSS. Deploy Link :https://mern-quiz-app-ten.vercel.app/
 <i><h2>1) Landing Page</h2></i>
-![Uploading Screenshot 2026-04-17 151253.png…]()
+
 <img width="1912" height="920" alt="Screenshot 2026-04-17 151000" src="https://github.com/user-attachments/assets/078db8c2-13fc-4a85-a66b-933405f9a987" />
 ![Uploading Screenshot 2026-04-17 145806.png…]()
 
