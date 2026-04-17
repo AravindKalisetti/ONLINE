@@ -13,9 +13,11 @@
 <img width="1858" height="889" alt="Screenshot 2026-04-17 153655" src="https://github.com/user-attachments/assets/9ab3d7f5-c735-43bf-b24d-17fbf95e1df3" />
 
 <i><h2>4) User Profile Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289427-5ec96a82-bac5-48eb-95ca-a3bc52f66c6c.png"/>
+<img width="1881" height="907" alt="Screenshot 2026-04-17 151334" src="https://github.com/user-attachments/assets/d6f80a74-afe3-4df4-acc3-852907736c55" />
+
 <i><h2>5) Admin Profile with All User's Details Page</h2></i>
-<img src="https://user-images.githubusercontent.com/97445870/183289430-05895b5f-d208-4e47-8100-8f7b04d79505.png"/>
+<img width="1903" height="907" alt="Screenshot 2026-04-17 151351" src="https://github.com/user-attachments/assets/c85bd9ae-7e52-4e47-8a02-a3e53392f032" />
+
 <i><h2>6) Add Quiz Page in which Admin Post the Quiz into the MongoDB Database</h2></i>
 <img src="https://user-images.githubusercontent.com/97445870/183289441-0be05676-c1bc-40cd-a5e6-77f58b584ee9.png"/>
 <i><h2>7) Questions of Quiz Page </h2></i>
