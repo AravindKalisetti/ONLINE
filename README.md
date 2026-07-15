@@ -1,7 +1,8 @@
 
 
 # MERN-Quiz-App
-<img width="1892" height="971" alt="Screenshot 2026-04-17 150916" src="
+<img width="1892" height="971" alt="Screenshot 2026-04-17 150916" src="![Uploading Screenshot (36).png…]()
+
   " />
 
 
